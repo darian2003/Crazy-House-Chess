@@ -14,9 +14,6 @@ Move
 - Position: o poziție pe tabla de șah este reținută sub formă de coordonate x și y; de exemplu, conform tablei de șah, dacă avem poziția E3, atunci x = 2 și y = 4,
 deoarece începem numărătoarea de la 0
 
-Detalii despre abordarea algoritmică a etapei (ce algoritmi ați folosit, cum i-ați combinat, de ce, complexități, etc.)
-    *
-
 Surse de inspirație
     * regulamentul proiectului: https://ocw.cs.pub.ro/courses/pa/regulament-proiect-2023
     * regulile generale ale jocului de șah: general și Crazyhouse
